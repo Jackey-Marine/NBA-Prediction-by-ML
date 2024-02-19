@@ -1,6 +1,6 @@
 # LearingStudy
 
-DL and ML models study repository.
+Personal DL and ML models study repository.
 
 ## MINST Classification
 
@@ -17,7 +17,3 @@ Using SVM to predict the 2019-2020 NBA champion.
 ## NBA_Champion ML Predicting
 
 Predicting NBA champion using ML
-
-## Flow&Load Anomaly Detection
-
-Anomaly detection by using flow and load dataset with Physics-informed Transformer mdoel.
